@@ -1,4 +1,4 @@
-# EECS106A-206A-Cooking-Sawyer
+# Cooking Sawyer
 
 Goal: To make Sawyer to pick up burget ingredients from the ingredients area and assemble them in the preparation area. 
 
